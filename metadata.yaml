@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2626'
     url: http://www.gutenberg.org/2009/agents/2626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37249#The-City-of-Numbered-Days
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
 identifiers:
